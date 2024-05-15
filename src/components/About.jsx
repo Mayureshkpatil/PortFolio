@@ -58,8 +58,7 @@ function About() {
           Achievements & Awards
         </h1>
         <span>
-          [Award/Recognition], [Organization/Institution], [Year] [Achievement],
-          [Organization/Platform], [Year]
+          [Cybersecurity Analyst], [Forage Tata], [February 12th, 2024]
         </span>
         <br />
         <br />
